@@ -1,0 +1,3 @@
+[ZoneTransfer]
+ZoneId=3
+HostUrl=https://ja.uncyclopedia.info/api.php?format=json&action=query&prop=revisions&titles=%E5%A4%A7%E8%B0%B7%E7%BF%94%E5%B9%B3&rvprop=content
